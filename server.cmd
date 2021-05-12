@@ -1,1 +1,1 @@
-start server\txt.txt
+start zmffkdldjsxm\txt.txt
